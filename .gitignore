@@ -1,0 +1,4 @@
+*.vcd
+alarm_sim
+*_sim
+*.exe
